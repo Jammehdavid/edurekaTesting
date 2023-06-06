@@ -1,0 +1,2 @@
+This file is open at the moment 
+exit 
